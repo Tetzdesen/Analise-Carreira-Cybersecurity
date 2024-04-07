@@ -18,6 +18,28 @@ Este projeto analisa os salários na área de segurança cibernética para forne
 - Requests: Consumo de uma API de dados monetários.
 - Plotly: Visualização de dados.
 
+## Perguntas e gráficos para análise de dados
+
+- #### Pergunta 1: Meu salário aumenta com o tempo?
+
+![Gráfico da Pergunta 1](./img/img01.png)
+
+- #### Pergunta 2: Escolho entre flexibilidade de horário ou salário?
+
+![Gráfico da Pergunta 2](./img/img02.png)
+
+- #### Pergunta 3: Se eu sair do país, terei emprego?
+
+![Gráfico da Pergunta 3](./img/img03.png)
+
+- ####  Pergunta 4: Como é a média salarial de cada nível de experiência a cada ano?
+
+![Gráfico da Pergunta 4](./img/img04.png)
+
+- #### Pergunta 5: Se eu optar por trabalhar remotamente, vou receber bem?
+
+![Gráfico da Pergunta 5](./img/img05.png)
+
 ## Análise e Resultados
 - **Conceitos Explorados:** Relação entre experiência e salário, diferença salarial entre tipos de emprego, influência da modalidade de trabalho na remuneração.
 - **Resultados Principais:** Destaque dos principais insights obtidos.
